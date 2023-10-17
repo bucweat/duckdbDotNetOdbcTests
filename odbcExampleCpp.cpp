@@ -167,8 +167,8 @@ int main(array<System::String ^> ^args)
     }
 
     std::cout << s << std::endl;
-    std::cout << "press any key to continue..." << std::endl;
-    Console::ReadLine();
+    // std::cout << "press any key to continue..." << std::endl;
+    // Console::ReadLine();
 
     return returnVal;
 }
